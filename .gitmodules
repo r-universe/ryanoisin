@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SEset"]
+	path = SEset
+	url = https://github.com/ryanoisin/seset
+	shallow = true
+	registered = true
